@@ -35,7 +35,7 @@ const App = () => {
       }
     }
     else {
-      alert("Invalid Credentials")
+      alert("Invalid Login")
     }
   }
 
